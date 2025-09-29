@@ -1,0 +1,38 @@
+[
+  {
+    "net_op": {
+      "real_name": "Leo",
+      "handle": "Static",
+      "concept": "The Nervous Networker; a jumpy but brilliant info broker who survives by knowing everything.",
+      "stats": {
+        "brains": 4,
+        "guts": 1,
+        "style": 1
+      },
+      "skills": [
+        "Contacts",
+        "Notice",
+        "Hacking"
+      ],
+      "talent": {
+        "name": "Data Broker",
+        "description": "Once per session, can turn a failed Contacts roll to find information into a success, but the information comes with a complication."
+      },
+      "bond": "Novae (Mutual Reliance)"
+    },
+    "net_navi": {
+      "name": "Signal.EXE",
+      "concept": "A sleek, minimalist Navi designed for speed, stealth, and data acquisition.",
+      "hp_max": 30,
+      "stats": {
+        "attack": 1,
+        "rapid": 1,
+        "charge": 2
+      },
+      "power": {
+        "name": "Elec Body",
+        "description": "Immune to paralysis and moves faster."
+      }
+    }
+  }
+]
