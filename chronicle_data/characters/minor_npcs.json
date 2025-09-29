@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Old Man Hachi",
+    "faction": "Unaffiliated",
+    "description": "Runs 'Hachi's Parts,' a cluttered electronics repair shop. Can find or fix any piece of hardware, new or old."
+  },
+  {
+    "handle": "Mix",
+    "faction": "Unaffiliated",
+    "description": "A rival DJ and host of a popular pirate radio show. Their rivalry with Astreia is friendly and professional."
+  },
+  {
+    "name": "Oba-san",
+    "faction": "Unaffiliated",
+    "description": "The cheerful, elderly woman who runs the 'Midnight Ramen' food stall, which serves as a neutral ground for NetOps."
+  },
+  {
+    "handle": "Jaeger",
+    "faction": "Unaffiliated (Freelancer)",
+    "description": "A grizzled NetOp who specializes in hunting rogue viruses and corrupted Navis with his Navi, Hound.EXE."
+  },
+  {
+    "name": "Jenson",
+    "faction": "OmniCorp",
+    "description": "A smug, low-level corporate security NetOp who patrols official servers with his generic SecuriNavi.EXE."
+  },
+  {
+    "name": "Dr. Aris Thorne",
+    "faction": "OmniCorp",
+    "description": "A brilliant but morally conflicted researcher in OmniCorp's Navi R&D division. A potential source of leaks."
+  },
+  {
+    "handle": "Bargain",
+    "faction": "DataWraiths (Associate)",
+    "description": "An untrustworthy Navi who runs a black-market chip shop hidden deep within the Junk-Heap."
+  },
+  {
+    "handle": "Glitch",
+    "faction": "DataWraiths (Aspirant)",
+    "description": "A teenage punk and wannabe DataWraith. His Navi, Jynx.EXE, is loaded with viral code, making it unpredictable and chaotic."
+  },
+  {
+    "handle": "Cassandra",
+    "faction": "FreeNet Front (FNF)",
+    "description": "A paranoid but genius coder who acts as one of the FNF's chief strategists and exploit finders."
+  },
+  {
+    "handle": "Relay",
+    "faction": "FreeNet Front (FNF)",
+    "description": "A young, athletic FNF activist who acts as a real-world scout and courier. A parkour enthusiast and friend of Ren."
+  }
+]
