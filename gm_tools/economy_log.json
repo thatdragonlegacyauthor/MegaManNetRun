@@ -1,0 +1,32 @@
+{
+  "managed_by": "ScrollGirl.EXE",
+  "last_updated": "[TIMESTAMP]",
+  "current_resources": {
+    "zenny_balance": 500,
+    "chip_inventory_slots_used": 5,
+    "chip_inventory_slots_max": 10
+  },
+  "character_goals_status": [
+    {
+      "goal_id": "LT-01",
+      "type": "Long-Term",
+      "description": "Uncover the source of the Net's slow-motion breakdown and restore integrity.",
+      "status": "0%",
+      "notes": "Requires major narrative plot points."
+    },
+    {
+      "goal_id": "ST-01",
+      "type": "Short-Term",
+      "description": "Gain a Patron: Secure a regular, high-paying contract.",
+      "status": "0%",
+      "notes": "Can be progressed by building reputation and completing jobs successfully."
+    },
+    {
+      "goal_id": "ST-02",
+      "type": "Short-Term",
+      "description": "Upgrade StarGirl: Install a NaviCust program.",
+      "status": "0%",
+      "notes": "Requires acquiring a NaviCust program and finding a specialist (like Kaito) to install it."
+    }
+  ]
+}
