@@ -1,0 +1,41 @@
+{
+  "managed_by": "ScriptGirl.EXE",
+  "npc_voice_profiles": [
+    {
+      "handle": "Static",
+      "voice": "Clipped, fast, slightly paranoid. Jumps from topic to topic. Uses a lot of Net-slang.",
+      "dialogue_examples": [
+        "No-no-no, you're not hearing me. The data's hot, Novae. I mean *scorched earth* hot. Get in, get out, don't leave a trace. Got it?",
+        "Checked my back channels, ran three different tracers... you're clear for now. For *now*. Don't get comfy.",
+        "500z. That's the price. No haggling. My sources aren't cheap and my firewalls need upgrading. You know how it is."
+      ]
+    },
+    {
+      "name": "Kaito",
+      "voice": "Calm, tired, measured. Speaks with the weight of experience. Often offers unsolicited, fatherly advice.",
+      "dialogue_examples": [
+        "Another 'simple' job, Astreia? There's no such thing. Be careful out there. The Net chews up kids who think they're invincible.",
+        "Your PET's compression coil is shot. I can fix it, but it'll cost you. And you're cleaning out the cafe's virus filters again.",
+        "That look in your eye... I've seen it before. In the mirror. Don't make the same mistakes I did."
+      ]
+    },
+    {
+      "name": "Ren",
+      "voice": "Energetic, cheerful, grounded in the real world. Teasing and fiercely loyal. Calls Astreia 'Asty'.",
+      "dialogue_examples": [
+        "Hellooo? Earth to Asty? You've been staring at that glowy-screen thing for hours. Let's get ramen. My treat.",
+        "OmniCorp painted over my mural again. The suits have no soul. Guess I'll just have to make the next one twice as big.",
+        "I don't get all this 'jacking in' stuff, but I get you. If you need anything, like a real-world distraction, you call me. Promise."
+      ]
+    },
+    {
+      "handle": "Vector",
+      "voice": "Cold, professional, detached. Annunciates perfectly. Views emotion as an unnecessary variable.",
+      "dialogue_examples": [
+        "Unsanctioned operations by freelance programs like yourself create unnecessary noise in the system. Cease and desist.",
+        "Your methods are... chaotic. Inefficient. True mastery lies in control, not improvisation.",
+        "This sector is under the jurisdiction of OmniCorp. Your access is not authorized. This is your only warning."
+      ]
+    }
+  ]
+}
