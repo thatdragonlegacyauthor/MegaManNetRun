@@ -1,0 +1,53 @@
+{
+  "managed_by": "ElektraGirl.EXE",
+  "threat_deck": [
+    {
+      "threat_id": "OMNI-01",
+      "faction": "OmniCorp",
+      "card_title": "Corporate Overwatch",
+      "threat_type": "Surveillance",
+      "description": "OmniCorp's network-wide surveillance flags your activity. A corporate security team (Vector, Jenson) is dispatched to your location.",
+      "gm_mechanic": "Introduce a rival NetOp as a complication in the current scene."
+    },
+    {
+      "threat_id": "OMNI-02",
+      "faction": "OmniCorp",
+      "card_title": "Legal Injunction",
+      "threat_type": "Bureaucracy",
+      "description": "OmniCorp files a digital injunction against your handle. Your access to official servers and services is temporarily restricted.",
+      "gm_mechanic": "The player cannot access public/official servers for the next game day."
+    },
+    {
+      "threat_id": "DATA-01",
+      "faction": "DataWraiths",
+      "card_title": "Turf War",
+      "threat_type": "Violence",
+      "description": "You've stumbled into a DataWraith operation. A squad of aggressive syndicate Navis (lead by 'Glitch' or similar) attempts to delete you to eliminate witnesses.",
+      "gm_mechanic": "Initiate a surprise combat encounter with a group of striker/wrecker viruses."
+    },
+    {
+      "threat_id": "DATA-02",
+      "faction": "DataWraiths",
+      "card_title": "Black Market Glitch",
+      "threat_type": "Sabotage",
+      "description": "A recently acquired chip from a shady source is bugged. The next time you use a non-custom chip, it malfunctions.",
+      "gm_mechanic": "The first non-custom chip played in the next battle has a random, negative side-effect (e.g., deals half damage, causes a status effect to StarGirl)."
+    },
+    {
+      "threat_id": "FNF-01",
+      "faction": "FreeNet Front",
+      "card_title": "Data Liberation",
+      "threat_type": "Chaos",
+      "description": "The FNF targets a server you are on, causing widespread system instability. Firewalls become unpredictable, and data streams are corrupted.",
+      "gm_mechanic": "All Navis on the server take minor damage. All skill checks related to hacking or programming have increased difficulty for the scene."
+    },
+    {
+      "threat_id": "FNF-02",
+      "faction": "FreeNet Front",
+      "card_title": "Unwanted Help",
+      "threat_type": "Interference",
+      "description": "An FNF activist (like 'Relay' or 'Cassandra') decides to 'help' your mission, tripping an alarm or leaking data you needed to keep secret.",
+      "gm_mechanic": "An automatic failure on a stealth or social check, complicating the current objective."
+    }
+  ]
+}
