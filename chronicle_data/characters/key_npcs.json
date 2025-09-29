@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Kaito",
+    "role": "The Mentor",
+    "faction": "Unaffiliated",
+    "description": "Proprietor of the 'Glitch Bar' Net-Cafe. A retired, world-weary NetBattler who acts as a mentor and hardware specialist for Astreia. He is a grounding presence and a source of cautious wisdom.",
+    "location": "Glitch Bar, Denki District"
+  },
+  {
+    "name": "Ren",
+    "role": "The Best Friend",
+    "faction": "Unaffiliated (FNF Sympathizer)",
+    "description": "A prolific and anti-corporate street artist who operates in the Denki District. She is Astreia's anchor to the real world, fiercely loyal and entirely unimpressed by the digital realm. Her art often gets her into trouble.",
+    "location": "Denki District"
+  },
+  {
+    "handle": "Vector",
+    "role": "The Rival",
+    "faction": "OmniCorp",
+    "description": "OmniCorp's rising star in their corporate NetBattling division. Cold, calculating, and ruthlessly efficient. He views freelance operators as chaotic and unprofessional. He is Astreia's ideological and professional opposite.",
+    "location": "OmniCorp Tower / Official Net Servers",
+    "net_navi": {
+      "name": "Warden.EXE",
+      "concept": "A sleek, heavily armored Navi with a tower shield emblem. A defensive fortress that specializes in battlefield control and overwhelming counter-attacks.",
+      "power": {
+        "name": "SuprArmor",
+        "description": "Navi won't flinch when hit by attacks."
+      }
+    }
+  }
+]
