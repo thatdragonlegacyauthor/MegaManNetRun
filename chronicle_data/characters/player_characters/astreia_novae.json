@@ -1,0 +1,79 @@
+{
+  "net_op": {
+    "real_name": "Astreia",
+    "handle": "Novae",
+    "concept": "The Virtuoso; a techy, goth, cyberpunk musician and micro-celebrity.",
+    "stats": {
+      "brains": 3,
+      "guts": 1,
+      "style": 2
+    },
+    "skills": [
+      "Programming",
+      "Perform",
+      "Contacts"
+    ],
+    "talent": {
+      "name": "Signal Sweep",
+      "description": "When making a non-skill Brains check for intuition, she gains cryptic insight on a success."
+    },
+    "bond": "Static (Mutual Reliance)"
+  },
+  "net_navi": {
+    "name": "StarGirl.EXE",
+    "hp_current": 18,
+    "hp_max": 40,
+    "stats": {
+      "attack": 1,
+      "rapid": 2,
+      "charge": 1
+    },
+    "power": {
+      "name": "Float Shoes",
+      "description": "Can move over empty spaces on the board."
+    }
+  },
+  "chip_folder": [
+    {
+      "chip_name": "NovaBlade",
+      "quantity": 2,
+      "type": "Blade",
+      "damage": "Attack + 1",
+      "effect": "Hits the enemy directly in front of you 3 times in rapid succession.",
+      "custom": true
+    },
+    {
+      "chip_name": "CometEdge",
+      "quantity": 1,
+      "type": "Blade",
+      "damage": "Attack + 3",
+      "effect": "Strikes in a line, hitting the panel in front of you and the one directly behind it.",
+      "custom": true
+    },
+    {
+      "chip_name": "AirShot",
+      "quantity": 1,
+      "type": "Shot",
+      "damage": "Attack + 2",
+      "effect": "Pushes the enemy back one panel.",
+      "custom": false
+    },
+    {
+      "chip_name": "Barrier",
+      "quantity": 1,
+      "type": "Support",
+      "damage": null,
+      "effect": "Creates a shield with 10 HP.",
+      "custom": false
+    }
+  ],
+  "assets": {
+    "zenny": 500,
+    "critical_asset": "The Seed (Hidden in Glitch Bar)"
+  },
+  "goals": {
+    "long_term": "Uncover the source of the Net's slow-motion breakdown and restore integrity.",
+    "short_term_1": "Gain a Patron: Secure a regular, high-paying contract.",
+    "short_term_2": "Upgrade StarGirl: Install a NaviCust program."
+  }
+}
