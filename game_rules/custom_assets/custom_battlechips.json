@@ -1,0 +1,20 @@
+{
+  "custom_chips": [
+    {
+      "chip_name": "NovaBlade",
+      "type": "Blade",
+      "damage": "Attack + 1",
+      "effect": "Hits the enemy directly in front of you 3 times in rapid succession.",
+      "description": "A custom-programmed saber that emulates the classic Z-Saber combo, striking with the speed of a collapsing star. Designed by Astreia 'Novae'.",
+      "source": "NET-CHRONICLE Custom"
+    },
+    {
+      "chip_name": "CometEdge",
+      "type": "Blade",
+      "damage": "Attack + 3",
+      "effect": "Strikes in a line, hitting the panel in front of you and the one directly behind it.",
+      "description": "A blade of focused light that extends like a comet's tail, allowing for ranged melee strikes. Designed by Astreia 'Novae'.",
+      "source": "NET-CHRONICLE Custom"
+    }
+  ]
+}
